@@ -1,0 +1,12 @@
+.title {
+    justify-content: center;
+    margin: auto;
+    margin-top: 2em;
+}
+h1 {
+    text-align: center;
+}
+
+#scheduled-trains, .title {
+    margin-bottom: 2em;
+}
